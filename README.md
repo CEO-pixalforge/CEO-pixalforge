@@ -39,7 +39,6 @@ We are currently in early development stages, actively working on:
 ## 🔗 Connect With Us
 
 - Website: [PixalForge.com](https://www.pixalforge.com)
-- Cloud Services: [cloud.pixalforge.nl.eu.org](https://cloud.pixalforge.nl.eu.org)
 
 ## 💡 Our Vision
 
